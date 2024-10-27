@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_groq
+chromadb
+streamlit
+bs4
+pandas
+os
