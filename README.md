@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support or questions, contact:
 - Email: your.email@example.com
-- GitHub: [TannaPrasanthkumar](https://github.com/tannaprasanthkumar)
+- GitHub: [TannaPrasanthkumar](https://github.com/TannaPrasanthkumar)
 
 ## 🙏 Acknowledgments
 
